@@ -1,1 +1,5 @@
 *.html~
+*.md
+*.md~
+*.swp
+/data_markdown/
