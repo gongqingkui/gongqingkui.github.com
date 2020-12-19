@@ -1,3 +1,5 @@
 *.html~
 *.md~
+*.py~
 *.swp
+/venv_md2html
